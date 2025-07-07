@@ -31,9 +31,5 @@ A **Gradio-based job search web app** that fetches recent software & tech job li
 ```bash
 git clone https://github.com/Manniss01/unicodax-job-finder.git
 cd unicodax-job-finder
-
-## How to Run Locally
-
-```bash
 pip install -r requirements.txt
 python app.py
